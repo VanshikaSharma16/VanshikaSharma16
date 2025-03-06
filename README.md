@@ -30,7 +30,9 @@ Live Demo: Click Here | GitHub: Repo
 
 📬 Get in Touch
 
-📌 GitHub: 📌 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vanshika-sharma-37343122a/)📌  Email: sharmavanshika1616@gmail.com
+📌 GitHub: https://github.com/VanshikaSharma16
+📌 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vanshika-sharma-37343122a/)
+📌  Email: sharmavanshika1616@gmail.com
 
 Let's build something amazing together! 🚀
 
